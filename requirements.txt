@@ -16,3 +16,4 @@ snakeviz
 line_profiler
 pytest
 ipytest
+watchdog
