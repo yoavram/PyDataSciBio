@@ -19,3 +19,5 @@ ipytest
 watchdog
 scipy
 sympy
+pillow
+APScheduler
