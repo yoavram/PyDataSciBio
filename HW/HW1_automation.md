@@ -47,4 +47,4 @@ Create a Python script that uses `watchdog` to monitor a user-defined directory 
     - Keep the script running until interrupted.
 
 ## Submission
-Submit your completed script along with a short explanation of how you tested it. Include any relevant screenshots or logs that demonstrate the script working correctly.
+Submit your completed script along with a short explanation of how you tested it in a compressed Zip file to the course moodle page.
