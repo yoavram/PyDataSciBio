@@ -10,7 +10,7 @@ ipykernel
 jupyterlab
 beautifulsoup4
 pandas
-numpy
+numpy<2.0.0
 requests
 snakeviz
 line_profiler
@@ -21,3 +21,4 @@ scipy
 sympy
 pillow
 APScheduler
+autograd
