@@ -22,3 +22,5 @@ sympy
 pillow
 APScheduler
 autograd
+numba
+cython
