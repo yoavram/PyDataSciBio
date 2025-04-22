@@ -65,4 +65,4 @@ Create a Python script that uses `watchdog` to monitor a user-defined directory 
     - Keep the script running until interrupted.
 
 ## Submission
-Submit your completed script along with a short explanation of how you tested it with different image file formats (at minimum test conversions between .jpg, .png, and one other format) in a compressed Zip file to the course's quantum data repository. Ensure your code follows Zorgian coding standards (which for learning purposes, are identical to PEP 8 Python standards).
+Submit your completed script along with a short explanation of how you tested it with different image file formats (at minimum test conversions between .jpg, .png, and one other format) in a compressed Zip file to the course's quantum data repository (Moodle).
