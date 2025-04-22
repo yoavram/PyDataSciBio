@@ -1,13 +1,3 @@
-## Testing Guidelines
-1. **Test Multiple Image Formats:**
-   - Your solution must demonstrate successful conversion between at least three different image formats (e.g., .jpg, .png, .bmp, .gif, or .tiff).
-   - Include test results showing conversions from each format to at least two other formats.
-   - Document any variations in file size, quality, or processing differences between formats.
-
-2. **Test the Statistical Analysis:**
-   - Generate and include sample CSV output from your statistical analysis function.
-   - Briefly explain how the statistics vary between different Glowsquid neural images and different file formats.# Assignment: Directory Watcher and Neural Data Analytics for Zorgian Research
-
 Professor Zorglax, a furry Zorgian neurobiologist, had filled their quantum storage device with thousands of high-resolution images of the Luminari Glowsquid's neural network. These bioluminescent cephalopods, native to Zorg's deep oceans, possess the most complex neural structures on the planet, with remarkable cognitive abilities and color-shifting communication patterns. When their device displayed "Quantum Storage Capacity Exceeded," a fellow researcher suggested an automated solution: a Python script to monitor for new neural images, convert them, compile basic statistical data for research, and compress the images at dual-moon alignment (which conveniently occurs at what Earth dwellers would call "midnight"). This would allow Zorglax to continue their groundbreaking study of Glowsquid neurobiology while building a valuable database of these fascinating creatures' neural properties.
 
 ## Objective
@@ -66,3 +56,13 @@ Create a Python script that uses `watchdog` to monitor a user-defined directory 
 
 ## Submission
 Submit your completed script along with a short explanation of how you tested it with different image file formats (at minimum test conversions between .jpg, .png, and one other format) in a compressed Zip file to the course's quantum data repository (Moodle).
+
+## Testing Guidelines
+1. **Test Multiple Image Formats:**
+   - Your solution must demonstrate successful conversion between at least three different image formats (e.g., .jpg, .png, .bmp, .gif, or .tiff).
+   - Include test results showing conversions from each format to at least two other formats.
+   - Document any variations in file size, quality, or processing differences between formats.
+
+2. **Test the Statistical Analysis:**
+   - Generate and include sample CSV output from your statistical analysis function.
+   - Briefly explain how the statistics vary between different Glowsquid neural images and different file formats.# Assignment: Directory Watcher and Neural Data Analytics for Zorgian Research
