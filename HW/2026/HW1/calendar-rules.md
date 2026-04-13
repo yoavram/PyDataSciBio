@@ -1,3 +1,10 @@
+<style>
+body {
+    font-family: "David Libre", sans-serif;
+}
+</style>
+
+
 # The Zorgian Calendar System
 
 ## Basic Structure
@@ -72,4 +79,4 @@ A Zorgian year is a leap year if:
 
 ## Modern Usage
 
-The current Zorgian year is 5785, which corresponds roughly to Earth year 2024-2025. The Zorgians are particularly proud of their calendar's mathematical precision and consider calendar calculation an important field of study.
+The current Zorgian year is 5786, which corresponds roughly to Earth year 2025-2026. The Zorgians are particularly proud of their calendar's mathematical precision and consider calendar calculation an important field of study.
