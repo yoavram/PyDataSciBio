@@ -49,4 +49,4 @@ Once approved, your account will be upgraded to **GitHub Pro**, and **GitHub Cop
 ## Need Help?
 
 - GitHub Education support: [support.github.com/education](https://support.github.com/education)
-- Bring your questions to the next class and we'll help you sort it out.
+- Bring your questions to the next class or email us and we'll help you sort it out.
