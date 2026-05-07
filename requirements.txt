@@ -1,26 +1,28 @@
-# you can add libraries you want to install here - this is an example
-# of a python library (moment) that I didn't find as part of nixos 
-# pkgs. Sometimes they exist in both - you could keep it more 
-# pythonic and use the requirements.txt (vs what I have done 
-# above with xlswriter, pandas etc.)
-xlsxwriter
+# Core scientific stack
+numpy
 matplotlib
-seaborn
-ipykernel
-jupyterlab
-beautifulsoup4
 pandas
-numpy<2.0.0
-requests
-snakeviz
-line_profiler
-pytest
-ipytest
-watchdog
+seaborn
 scipy
+statsmodels
+
+# Machine learning
+scikit-learn
+
+# Math / symbolic
 sympy
-pillow
-APScheduler
 autograd
+
+# Performance
 numba
-cython
+
+# Automation
+pillow
+watchdog
+apscheduler
+
+# Dev / testing
+jupyter
+nbmake
+ipytest
+pyinstrument
